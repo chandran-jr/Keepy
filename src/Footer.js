@@ -7,9 +7,13 @@ function Footer() {
     return (
         <div>
 
+        <footer>
+
         <p>
          Copyright © {years}
         </p>
+
+        </footer>
             
         </div>
     )
