@@ -8,7 +8,11 @@ function App() {
     return (
         <div>
         <Header/>
-        <Note/>
+        <Note
+            title=
+            content=
+
+        />
         <Footer/>
             
         </div>
