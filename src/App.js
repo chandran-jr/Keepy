@@ -9,9 +9,8 @@ function App() {
         <div>
         <Header/>
         <Note
-            title=
-            content=
-
+            title= "Hello"
+            content= "Notes"
         />
         <Footer/>
             
