@@ -23,6 +23,10 @@ function handleChange(event) {
 
 function submitNote(event) {
     event.preventDefault();
+    setNote({
+        title: "",
+        content: "",
+    })
     props.onAdd(note);
 }
 
