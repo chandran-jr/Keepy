@@ -7,8 +7,9 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: #eee;
+  background: rgb(205, 205, 245);
   padding: 0 16px;
+  
 }
 
 header {

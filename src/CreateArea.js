@@ -52,9 +52,9 @@ function clicked() {
           onChange={handleChange}
           value={note.content}
           placeholder="Take a note..."
-          rows="1"
+          rows={isExpanded ? 3:1 }
         />
-        <Zoom in={true}>
+        <Zoom in={isExpanded}>
         <Fab onClick={submitNote}>
             <AddIcon/>
             </Fab>
