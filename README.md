@@ -1,4 +1,4 @@
-# Keepy
+# Keepy Web Application
 
 <img src = "keepy.PNG" >
 
